@@ -16,8 +16,7 @@ Dokterian is a modern, intuitive mobile application designed to connect patients
 - Navigation Component: Efficient navigation throughout the app.
 
 ## Screenshots
-![Home](https://github.com/ihsannurmaulana/Dokterian-Using-JetpackCompose/assets/81961193/33647d22-4c11-4740-812f-9307f0505bba)
-![Schedule](https://github.com/ihsannurmaulana/Dokterian-Using-JetpackCompose/assets/81961193/e11f97b1-32f0-410e-a2a8-33df6d715880)
+![All Screen](https://github.com/ihsannurmaulana/Dokterian-Using-JetpackCompose/assets/81961193/0ea598b9-c292-4412-bdfb-da48c315e874)
 
 ## Getting Started
 1. Clone the repository:
